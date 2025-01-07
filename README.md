@@ -1,6 +1,6 @@
 ### print (Olá, mundo!) 👋
 
-- 🌱 I’m currently learninurg Python and Node.js
+- 🌱 I’m currently learninurg Node.js
 - 📫 How to reach me: yulyrauen@gmail.com
 - ⚡ Fun fact: I love spending my free time away from screens (;
 
